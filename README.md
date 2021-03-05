@@ -64,11 +64,11 @@ In Unity, you'll need to right-click and create both an Azure Spatial Anchors an
 
 - Drag the Azure Spatial Anchors configuration asset in Unity to the *Azure Spatial Anchors Configuration* field on the Main Hand Menu in the scene hierarchy.
 <br />
-<img src="azure-spatial-anchors-litecoin-mining-stats-inspector-01.png" width="500">
+<img src="https://github.com/torynfarr/hololens/blob/master/docs/images/azure-spatial-anchors-litecoin-mining-stats-inspector-01.png" width="500">
 <br />
 - Open the slate prefab and drag the Litecoin Pool configuration asset to the *Litecoin Pool Configuration* field on the ContentQuad in the slate prefab.
 <br />
-<img src="azure-spatial-anchors-litecoin-mining-stats-inspector-02.png" width="500">
+<img src="https://github.com/torynfarr/hololens/blob/master/docs/images/azure-spatial-anchors-litecoin-mining-stats-inspector-02.png" width="500">
 <br />
 <br />
 
