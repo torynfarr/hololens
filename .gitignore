@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Specific configuration files
+LitecoinPoolConfig.asset
+LitecoinPoolConfig.asset.meta
+SpatialAnchorConfig.asset
+SpatialAnchorConfig.asset.meta

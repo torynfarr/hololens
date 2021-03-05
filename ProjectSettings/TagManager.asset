@@ -6,6 +6,11 @@ TagManager:
   tags:
   - Cube
   - Wall
+  - Litecoin
+  - Slate
+  - Near Menu
+  - Hand Menu
+  - Currency Hand Menu
   layers:
   - Default
   - TransparentFX

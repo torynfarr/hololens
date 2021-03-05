@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Samples/01.scene-understanding-find-closest-wall/scene-understanding-find-closest-wall.unity
     guid: 677945aa548356b48b9ae5f1b05cf8f4
+  - enabled: 1
+    path: Assets/Samples/02.azure-spatial-anchors-litecoin-mining-stats/azure-spatial-anchors-litecoin-mining-stats.unity
+    guid: fb04177e8b52e5d419dc46dc73606c2a
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 124ed66400c03e244bfb1be2fc981c66,
       type: 2}
