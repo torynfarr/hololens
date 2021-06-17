@@ -3,7 +3,7 @@ This repository contains various sample Unity projects designed for the HoloLens
 <br />
 <br />
 
-## 01.[Scene Understanding Find Closest Wall](https://github.com/torynfarr/hololens/tree/master/Assets/Samples/01.scene-understanding-find-closest-wall)
+## 01.[Scene Understanding Find Closest Wall](https://github.com/torynfarr/hololens/tree/main/Assets/Samples/01.scene-understanding-find-closest-wall)
 
 This sample uses Microsoft's Scene Understanding SDK and demonstrates how to detect the wall closest to the camera. Specifically, it detects the game objects rendered by the Scene Understanding Display Manager representing wall scene objects. The closest wall is determined by measuring the distance between the camera (the HoloLens 2) and the center of the bounds of each wall game object.
 
@@ -17,11 +17,11 @@ This sample uses Microsoft's Scene Understanding SDK and demonstrates how to det
 
 - A cube sent to the wall closest to you will position itself in the center of that wall, at slightly below eye level, and will rotate to sit flush with the wall.
 <br />
-<img src="https://github.com/torynfarr/hololens/blob/master/docs/images/scene-understanding-find-closest-wall.gif" width="350">
+<img src="https://github.com/torynfarr/hololens/blob/main/docs/images/scene-understanding-find-closest-wall.gif" width="350">
 <br />
 <br />
 
-## 02.[Azure Spatial Anchors Litecoin Mining Stats](https://github.com/torynfarr/hololens/tree/master/Assets/Samples/02.azure-spatial-anchors-litecoin-mining-stats)
+## 02.[Azure Spatial Anchors Litecoin Mining Stats](https://github.com/torynfarr/hololens/tree/main/Assets/Samples/02.azure-spatial-anchors-litecoin-mining-stats)
 
 This sample demonstrates how to create, find, and delete an Azure Spatial Anchor. It also showcases several features of the Mixed Reality Toolkit including hand rays, spatial awareness, surface magnetism, tap to place, hand menus, and eye tracking.
 
@@ -45,7 +45,7 @@ This sample demonstrates how to create, find, and delete an Azure Spatial Anchor
 
 - Tap the *Delete Spatial Anchor* button in the hand menu to delete the Azure Spatial Anchor. The Litecoin symbol will be displayed again and is ready to be placed in your environment.
 <br />
-<img src="https://github.com/torynfarr/hololens/blob/master/docs/images/azure-spatial-anchors-litecoin-mining-stats.gif" width="350">
+<img src="https://github.com/torynfarr/hololens/blob/main/docs/images/azure-spatial-anchors-litecoin-mining-stats.gif" width="350">
 <br />
 
 ## Configuration
@@ -64,13 +64,13 @@ In Unity, you'll need to right-click and create both an Azure Spatial Anchors an
 
 - Drag the Azure Spatial Anchors configuration asset in Unity to the *Azure Spatial Anchors Configuration* field on the Main Hand Menu in the scene hierarchy.
 <br />
-<img src="https://github.com/torynfarr/hololens/blob/master/docs/images/azure-spatial-anchors-litecoin-mining-stats-inspector-01.png" width="500">
+<img src="https://github.com/torynfarr/hololens/blob/main/docs/images/azure-spatial-anchors-litecoin-mining-stats-inspector-01.png" width="500">
 <br />
 <br />
 
 - Open the slate prefab and drag the Litecoin Pool configuration asset to the *Litecoin Pool Configuration* field on the ContentQuad in the slate prefab.
 <br />
-<img src="https://github.com/torynfarr/hololens/blob/master/docs/images/azure-spatial-anchors-litecoin-mining-stats-inspector-02.png" width="500">
+<img src="https://github.com/torynfarr/hololens/blob/main/docs/images/azure-spatial-anchors-litecoin-mining-stats-inspector-02.png" width="500">
 <br />
 
 # Additional Information
